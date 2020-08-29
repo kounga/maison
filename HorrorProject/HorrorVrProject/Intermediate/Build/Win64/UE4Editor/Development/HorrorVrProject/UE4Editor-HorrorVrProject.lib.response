@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HorrorVrProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\3D\projet_perso\HorrorProject\HorrorVrProject\Intermediate\Build\Win64\HorrorVrProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\3D\projet_perso\HorrorProject\HorrorVrProject\Intermediate\Build\Win64\UE4Editor\Development\HorrorVrProject\HorrorVrProject.cpp.obj"
+"D:\3D\projet_perso\HorrorProject\HorrorVrProject\Intermediate\Build\Win64\UE4Editor\Development\HorrorVrProject\HorrorVrProjectGameModeBase.cpp.obj"
+"D:\3D\projet_perso\HorrorProject\HorrorVrProject\Intermediate\Build\Win64\UE4Editor\Development\HorrorVrProject\HorrorVrProject.init.gen.cpp.obj"
+"D:\3D\projet_perso\HorrorProject\HorrorVrProject\Intermediate\Build\Win64\UE4Editor\Development\HorrorVrProject\HorrorVrProjectGameModeBase.gen.cpp.obj"
+"D:\3D\projet_perso\HorrorProject\HorrorVrProject\Intermediate\Build\Win64\UE4Editor\Development\HorrorVrProject\Default.rc2.res"
+/OUT:"D:\3D\projet_perso\HorrorProject\HorrorVrProject\Intermediate\Build\Win64\UE4Editor\Development\HorrorVrProject\UE4Editor-HorrorVrProject.lib"
+/INCLUDE:IMPLEMENT_MODULE_HorrorVrProject

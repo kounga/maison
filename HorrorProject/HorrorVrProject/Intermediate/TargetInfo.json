@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HorrorVrProject",
+			"Path": "D:\\3D\\projet_perso\\HorrorProject\\HorrorVrProject\\Source\\HorrorVrProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HorrorVrProjectEditor",
+			"Path": "D:\\3D\\projet_perso\\HorrorProject\\HorrorVrProject\\Source\\HorrorVrProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

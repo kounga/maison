@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HorrorVrProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FDC2AC3B-66C2-4B11-A4EF-34FDBC2BB2E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HorrorVrProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HorrorVrProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2BF12B96-0ABC-4A9E-885B-DD159B913281}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HorrorVrProject">
+      <UniqueIdentifier>{66710015-F7BD-4B0C-A1F6-89528EA5840B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HorrorVrProject\HorrorVrProject.Build.cs">
+      <Filter>Source\HorrorVrProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HorrorVrProject\HorrorVrProject.cpp">
+      <Filter>Source\HorrorVrProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HorrorVrProject\HorrorVrProject.h">
+      <Filter>Source\HorrorVrProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HorrorVrProject\HorrorVrProjectGameModeBase.cpp">
+      <Filter>Source\HorrorVrProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HorrorVrProject\HorrorVrProjectGameModeBase.h">
+      <Filter>Source\HorrorVrProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

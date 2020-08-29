@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.horrorvrproject-13942748.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/3D/projet_perso/HorrorProject/HorrorVrProject/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "HorrorVrProject-13942748 [UE Editor]"
+				}
+			}
+		}
+	]
+}
